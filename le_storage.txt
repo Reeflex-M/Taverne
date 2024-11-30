@@ -1,0 +1,6 @@
+setItem(key, value) : enregistrer et /ou ecraser une valeur
+getItem(key) : récupère une valeur
+removeItem(key) : supprimer la valeur/clé
+clear() : vide le storage
+length : retourne le nb de clés stockées
+key(index) : retourne la clé correspodant à l'index fourni
